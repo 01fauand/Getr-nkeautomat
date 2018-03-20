@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4F60DABC-7D18-4EB0-A7B4-A32801330773}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Getraenkeautomat/GetraenkeAutomat.cs">
+    <Files>
+      <File FileName="Getraenkeautomat/GetraenkeAutomat.cs" Line="18" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Getraenkeautomat PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

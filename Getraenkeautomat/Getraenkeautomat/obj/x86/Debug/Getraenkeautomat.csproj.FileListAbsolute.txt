@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\bin\Debug\Getraenkeautomat.exe
 C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\bin\Debug\Getraenkeautomat.pdb
 C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.Form1.resources
@@ -9,3 +10,22 @@ C:\Users\Hannes\documents\visual studio 2010\Projects\Getraenkeautomat\Getraenke
 C:\Users\Hannes\documents\visual studio 2010\Projects\Getraenkeautomat\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.pdb
 C:\Users\Hannes\Desktop\getraenkeautomat\Getraenkeautomat\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.exe
 C:\Users\Hannes\Desktop\getraenkeautomat\Getraenkeautomat\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.pdb
+=======
+C:/Users/Hannes/AppData/Local/Temporary Projects/Getraenkeautomat/bin/Debug/Getraenkeautomat.exe
+C:/Users/Hannes/AppData/Local/Temporary Projects/Getraenkeautomat/bin/Debug/Getraenkeautomat.pdb
+C:/Users/Hannes/AppData/Local/Temporary Projects/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.Form1.resources
+C:/Users/Hannes/AppData/Local/Temporary Projects/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.Properties.Resources.resources
+C:/Users/Hannes/AppData/Local/Temporary Projects/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.csproj.GenerateResource.Cache
+C:/Users/Hannes/AppData/Local/Temporary Projects/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.exe
+C:/Users/Hannes/AppData/Local/Temporary Projects/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.pdb
+C:/Users/Hannes/documents/visual studio 2010/Projects/Getraenkeautomat/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.exe
+C:/Users/Hannes/documents/visual studio 2010/Projects/Getraenkeautomat/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.pdb
+/Users/schule/Desktop/Getraenkeautomat/Getraenkeautomat/Getraenkeautomat/bin/Debug/Getraenkeautomat.exe
+/Users/schule/Desktop/Getraenkeautomat/Getraenkeautomat/Getraenkeautomat/bin/Debug/Getraenkeautomat.pdb
+/Users/schule/Desktop/Getraenkeautomat/Getraenkeautomat/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.Form1.resources
+/Users/schule/Desktop/Getraenkeautomat/Getraenkeautomat/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.Properties.Resources.resources
+/Users/schule/Desktop/Getraenkeautomat/Getraenkeautomat/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.csproj.GenerateResource.Cache
+/Users/schule/Desktop/Getraenkeautomat/Getraenkeautomat/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.csproj.CoreCompileInputs.cache
+/Users/schule/Desktop/Getraenkeautomat/Getraenkeautomat/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.exe
+/Users/schule/Desktop/Getraenkeautomat/Getraenkeautomat/Getraenkeautomat/obj/x86/Debug/Getraenkeautomat.pdb
+>>>>>>> 01971376eab13bcf4106fb9225e8f912d33415d6
