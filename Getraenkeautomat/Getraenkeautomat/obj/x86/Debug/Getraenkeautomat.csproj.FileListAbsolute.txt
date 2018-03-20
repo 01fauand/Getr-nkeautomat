@@ -7,3 +7,5 @@ C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\obj\x86\Debug\
 C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.pdb
 C:\Users\Hannes\documents\visual studio 2010\Projects\Getraenkeautomat\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.exe
 C:\Users\Hannes\documents\visual studio 2010\Projects\Getraenkeautomat\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.pdb
+C:\Users\Hannes\Desktop\getraenkeautomat\Getraenkeautomat\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.exe
+C:\Users\Hannes\Desktop\getraenkeautomat\Getraenkeautomat\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.pdb

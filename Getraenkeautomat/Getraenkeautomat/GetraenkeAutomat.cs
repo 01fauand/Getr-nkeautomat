@@ -12,6 +12,10 @@ namespace Getraenkeautomat
         private int getraenk3;
         private int getraenk4;
 
+
+
+        //hoi faust 
+
         public GetraenkeAutomat()
         {
             getraenk1 = 5;
