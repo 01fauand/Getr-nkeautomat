@@ -1,0 +1,9 @@
+C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\bin\Debug\Getraenkeautomat.exe
+C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\bin\Debug\Getraenkeautomat.pdb
+C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.Form1.resources
+C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.Properties.Resources.resources
+C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.csproj.GenerateResource.Cache
+C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.exe
+C:\Users\Hannes\AppData\Local\Temporary Projects\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.pdb
+C:\Users\Hannes\documents\visual studio 2010\Projects\Getraenkeautomat\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.exe
+C:\Users\Hannes\documents\visual studio 2010\Projects\Getraenkeautomat\Getraenkeautomat\obj\x86\Debug\Getraenkeautomat.pdb
